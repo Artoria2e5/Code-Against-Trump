@@ -2,7 +2,7 @@
 
 Post-election there's been a groundswell of data + tech people curious to use their skills to work against Trump's America. There have also been a number of new groups emerging to do just that. It's been a little hard to keep track. This is a list of volunteer-based groups that use data and technology to improve American communities and work against Trump's vision of America. 
 
-**This list is not comprehensive. Please add to it! Submit a pull request or email me at datalensdc@gmail.com**
+**This list is not comprehensive. Please add to it! Submit a pull request or issue.**
 
 ## An Important Note
 Data and technology is but one part of a very large toolbox in fighting back. Please check out websites like [Holy Fuck. Now What?](http://www.holyfucktheelection.com/) and [political-resources](https://valeriecodes.github.io/political-resources/) on other ways to volunteer time or money (and help grow [each](https://github.com/csb324/holyfucktheelectionistomorrow) [list](https://github.com/valeriecodes/political-resources), respectively). Many of the groups below are predominantly focused on data and tech but invite people from all skillsets and levels of expertise.
@@ -10,7 +10,7 @@ Data and technology is but one part of a very large toolbox in fighting back. Pl
 # Where can I Code Against Trump?
 
 ## [5calls](https://github.com/5calls/5calls)
-The all-volunteer led effort beind https://5calls.org/, a guide for locating and calling your representatives.  
+The all volunteer-led effort beind https://5calls.org/, a guide for locating and calling your representatives.  
 
 **Where?** The internet. Check out their [Github](https://github.com/5calls/5calls) and message them on [Twitter](https://twitter.com/make5calls) to join their Slack.  
 
