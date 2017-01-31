@@ -4,7 +4,7 @@ Post-election there's been a groundswell of data + tech people interested in usi
 
 **This list is not comprehensive. Please add to it! Submit a pull request or issue.**
 
-**Nonpartisan groups are including on this list and their inclusion does not imply a political stance.** 
+**Nonpartisan groups are included on this list. Inclusion on this list does not imply a political stance.** 
 
 ## An Important Note
 Data and technology is but one part of a very large toolbox in fighting back. Please check out websites like [Holy Fuck. Now What?](http://www.holyfucktheelection.com/) and [political-resources](https://valeriecodes.github.io/political-resources/) on other ways to volunteer time or money (and help grow [each](https://github.com/csb324/holyfucktheelectionistomorrow) [list](https://github.com/valeriecodes/political-resources), respectively). Many of the groups below are predominantly focused on data and tech but invite people from all skillsets and levels of expertise.
