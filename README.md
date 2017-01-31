@@ -1,8 +1,10 @@
 # Code Against Trump
 
-Post-election there's been a groundswell of data + tech people curious to use their skills to work against Trump's America. There have also been a number of new groups emerging to do just that. It's been a little hard to keep track. This is a list of volunteer-based groups that use data and technology to improve American communities and work against Trump's vision of America. 
+Post-election there's been a groundswell of data + tech people interested in using their skills to work against Trump's America. New groups are emerging to do just that. And, of course, there are a number of civic tech groups that have done this sort of work for years. It can be hard to keep track. This is a list of volunteer-based groups that use data and technology to improve American communities and work against Trump's vision of America. 
 
 **This list is not comprehensive. Please add to it! Submit a pull request or issue.**
+
+**Nonpartisan groups are including on this list and their inclusion does not imply a political stance.** 
 
 ## An Important Note
 Data and technology is but one part of a very large toolbox in fighting back. Please check out websites like [Holy Fuck. Now What?](http://www.holyfucktheelection.com/) and [political-resources](https://valeriecodes.github.io/political-resources/) on other ways to volunteer time or money (and help grow [each](https://github.com/csb324/holyfucktheelectionistomorrow) [list](https://github.com/valeriecodes/political-resources), respectively). Many of the groups below are predominantly focused on data and tech but invite people from all skillsets and levels of expertise.
@@ -19,12 +21,6 @@ The all volunteer-led effort beind https://5calls.org/, a guide for locating and
 Code for America Brigades are local volunteer groups that bring together community members to help make government work better. Brigades use technology to build new tools to help with local civic issues. Projects range from brigade to brigade from topics like affordable housing, access to women's healthcare, transportation equity, open government, and more. 
 
 **Where?** Lots of places! [Find your local brigade](http://brigade.codeforamerica.org/brigade/)
-
-
-## [DataKind](http://www.datakind.org/)
-DataKind couples data scientists with non-profits to address their analytical, visualization, and modeling needs. From evening or weekend events to multi-month projects, all are designed to provide social organizations with the pro bono data science skills they need to address a range of issues across education, poverty, health, human rights, the environment and cities.
-
-**Where?** [Washington, DC](http://www.datakind.org/chapters/datakind-dc), [San Francisco](http://www.datakind.org/chapters/datakind-sf)
 
 
 ## [Data for Democracy](https://medium.com/data-for-democracy)
