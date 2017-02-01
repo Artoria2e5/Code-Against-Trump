@@ -45,6 +45,12 @@ Past: San Francisco, New York City
 Future: [Los Angeles](https://www.eventbrite.com/e/debug-politics-1st-la-hackathon-tickets-29491780710). Check website for more to come.
 
 
+## [Make a Diff](https://www.meetup.com/make-a-diff/)
+Make A Diff is designed to organize the tech community to encourage thoughtful and impactful civic action. By focusing on education, action, and amplification, we hope to use the tech industry’s assets and minds to protect and empower vulnerable groups.
+
+**Where?** New York City. Check out their [meetup.](https://www.meetup.com/make-a-diff/)
+
+
 ## [Open Elections](https://blog.openelections.net/)
 Open Elections seeks  to create the first free, comprehensive, standardized, linked set of election data for the United States, including federal and statewide offices. Volunteers helps remotely gather and wrangle data for each state.
 
