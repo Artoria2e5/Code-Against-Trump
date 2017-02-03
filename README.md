@@ -2,6 +2,8 @@
 
 Post-election there's been a groundswell of data + tech people interested in using their skills to work against Trump's America. New groups are emerging to do just that. And, of course, there are a number of civic tech groups that have done this sort of work for years. It can be hard to keep track. This is a list of volunteer-based groups that use data and technology to improve American communities and work against Trump's vision of America. 
 
+Check out https://tech-forward.com/ for a list of organizations, projects, resources, data sources, and tools for social progress. 
+
 **This list is not comprehensive. Please add to it! Submit a pull request or issue.**
 
 **Nonpartisan groups are included on this list. Inclusion on this list does not imply a political stance.** 
