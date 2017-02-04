@@ -2,8 +2,6 @@
 
 Post-election there's been a groundswell of data + tech people interested in using their skills to work against Trump's America. New groups are emerging to do just that. And, of course, there are a number of civic tech groups that have done this sort of work for years. It can be hard to keep track. This is a list of volunteer-based groups that use data and technology to improve American communities and work against Trump's vision of America. 
 
-Check out https://tech-forward.com/ for a list of organizations, projects, resources, data sources, and tools for social progress. 
-
 **This list is not comprehensive. Please add to it! Submit a pull request or issue.**
 
 **Nonpartisan groups are included on this list. Inclusion on this list does not imply a political stance.** 
@@ -11,6 +9,14 @@ Check out https://tech-forward.com/ for a list of organizations, projects, resou
 ## An Important Note
 Data and technology is but one part of a very large toolbox in fighting back. Please check out websites like [Holy Fuck. Now What?](http://www.holyfucktheelection.com/) and [political-resources](https://valeriecodes.github.io/political-resources/) on other ways to volunteer time or money (and help grow [each](https://github.com/csb324/holyfucktheelectionistomorrow) [list](https://github.com/valeriecodes/political-resources), respectively). Many of the groups below are predominantly focused on data and tech but invite people from all skillsets and levels of expertise.
 
+## Websites to Check Out
+### https://tech-forward.com/ 
+A list of organizations, projects, resources, data sources, and tools for social progress. 
+
+### http://techresistance.org/
+Semi-weekly emails about work being done across the tech community to resist the Trump Administration’s policies as well as information about actions you can take right now.
+
+<br>
 # Where can I Code Against Trump?
 
 ## [5calls](https://github.com/5calls/5calls)
