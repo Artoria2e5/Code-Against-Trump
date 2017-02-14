@@ -16,6 +16,9 @@ A list of organizations, projects, resources, data sources, and tools for social
 ### http://techresistance.org/
 Semi-weekly emails about work being done across the tech community to resist the Trump Administration’s policies as well as information about actions you can take right now.
 
+### https://technicalmajority.com/ 
+Every day, more organizations and projects are launched to help people better use technology for the causes they care about. Technical Majority aims to be a catalog of what's out there. Currently, we track about 15 organizations and over 25 resources for activists.
+
 <br>
 # Where can I Code Against Trump?
 
