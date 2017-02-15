@@ -9,7 +9,7 @@ Post-election there's been a groundswell of data + tech people interested in usi
 ## An Important Note
 Data and technology is but one part of a very large toolbox in fighting back. Please check out websites like [Holy Fuck. Now What?](http://www.holyfucktheelection.com/) and [political-resources](https://valeriecodes.github.io/political-resources/) on other ways to volunteer time or money (and help grow [each](https://github.com/csb324/holyfucktheelectionistomorrow) [list](https://github.com/valeriecodes/political-resources), respectively). 
 
-Also, before coding to solve everything read [So you want to reform democracy](https://medium.com/@joshuatauberer/so-you-want-to-reform-democracy-7f3b1ef10597#.2a3tyvikw) by Joshua Tauberer and [Build With, Not For](http://www.buildwith.org/) by Laurenellen McCann. 
+#### Before coding to solve everything, please read [So you want to reform democracy](https://medium.com/@joshuatauberer/so-you-want-to-reform-democracy-7f3b1ef10597#.2a3tyvikw) by Joshua Tauberer and [Build With, Not For](http://www.buildwith.org/) by Laurenellen McCann. 
 
 ## Websites to Check Out
 ### https://tech-forward.com/ 
