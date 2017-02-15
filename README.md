@@ -35,6 +35,11 @@ Code for America Brigades are local volunteer groups that bring together communi
 
 **Where?** Lots of places! [Find your local brigade](http://brigade.codeforamerica.org/brigade/)
 
+## [Code for Democracy](https://codefordemocracy.slack.com/)
+Code for Democracy will brainstorm ways to work together to make a difference, locally or at a national level, through webapps, phone apps, novel dissemination of information, donating tech services, etc. Then they will form groups around projects of merit discussed and get to work.
+
+**Where?** [New York](https://www.meetup.com/Code-For-Democracy-NYC/), [Boston](https://www.meetup.com/Code-For-Democracy-Boston/), [San Francisco](https://www.meetup.com/Code-For-Democracy-SF/)
+
 
 ## [Data for Democracy](https://medium.com/data-for-democracy)
 Data for Democracy is a community of data people volunteering on social impact projects. It is a virtual organization that operates through Slack and Github. Current project areas include election transparency, analysis of online communities and the extreme right, campaign spending, and more. 
