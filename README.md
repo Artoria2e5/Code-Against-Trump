@@ -22,6 +22,7 @@ Semi-weekly emails about work being done across the tech community to resist the
 Every day, more organizations and projects are launched to help people better use technology for the causes they care about. Technical Majority aims to be a catalog of what's out there. Currently, we track about 15 organizations and over 25 resources for activists.
 
 <br>
+
 # Where can I Code Against Trump?
 
 ## [5calls](https://github.com/5calls/5calls)
@@ -87,4 +88,4 @@ Ragtag is a group of technologists volunteering their skills and time to help pr
 **Where?** The internet, and local chapters around the country. Signup at [https://ragtag.team/join](https://ragtag.team/join) or get tech help for your org at [https://ragtag.team/connect](https://ragtag.team/connect).
 
 
-######Disclaimer: I am not personally endorsing or vouching for any above group. Check them out for yourself!
+###### Disclaimer: I am not personally endorsing or vouching for any above group. Check them out for yourself!
